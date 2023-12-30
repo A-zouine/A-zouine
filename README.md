@@ -9,12 +9,12 @@
 >  Software engineer student at [1337](https://1337.ma/en/) \
 >  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
 
-
+<!--
 <p align="center">
 <a ><img src="https://badge.mediaplus.ma/black/aez-zoui" alt="aez-zoui's 42 stats" /></a>
 </p>
 
-
+-->
 
 <pre>
 
@@ -81,7 +81,7 @@
     </a>
 
 </p>
--->
+
 ---------------
 | [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-zouie&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ahmedez-zouine?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/ahmedez-zouine?tab=repositories) |
 |:-:|:-:|
@@ -93,3 +93,4 @@
 </p>
 
 ---------------
+-->

@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<a ><img src="https://badge.mediaplus.ma/black/aez-zoui" alt="ael-khni's 42 stats" /></a>
+<a ><img src="https://badge.mediaplus.ma/black/sbourziq" alt="ael-khni's 42 stats" /></a>
 </p>
 
 

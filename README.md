@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<a ><img src="https://badge.mediaplus.ma/black/sbourziq" alt="ael-khni's 42 stats" /></a>
+<a ><img src="https://badge.mediaplus.ma/black/aez-zoui" alt="aez-zoui's 42 stats" /></a>
 </p>
 
 
@@ -37,17 +37,17 @@
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/A-zouine/libft">libft</a>
-├─◈ <a href="https://github.com/A-zouine/get_next_line">get_next_line</a>
-├─◈ <a href="https://github.com/A-zouine/ft_printf">ft_printf</a>
-├─◈ <a href="https://github.com/A-zouine/Born2beRoot">Born2beRoot</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/libft">libft</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/get_next_line">get_next_line</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/ft_printf">ft_printf</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/Born2beRoot">Born2beRoot</a>
 │
 └───────────────────────────────▰▰▰
 
 
 ┌──┤ ALX PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/A-zouine/alx-low_level_programming">alx low level programming</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/alx-low_level_programming">alx low level programming</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -83,13 +83,13 @@
 </p>
 
 ---------------
-| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=achrafelkhnissi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) |
+| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-zouie&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ahmedez-zouine?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/ahmedez-zouine?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
-	<img alt="A-zouine's visitors" src="https://komarev.com/ghpvc/?username=A-zouine&color=8c36db&style=flat&label=visitors" />
-	<img alt="A-zouine's followers" src="https://img.shields.io/github/followers/A-zouine?color=blueviolet" />
-	<img alt="A-zouine's stars" src="https://img.shields.io/github/stars/A-zouine?color=blueviolet" />
+	<img alt="A-zouine's visitors" src="https://komarev.com/ghpvc/?username=ahmedez-zouine&color=8c36db&style=flat&label=visitors" />
+	<img alt="A-zouine's followers" src="https://img.shields.io/github/followers/ahmedez-zouine?color=blueviolet" />
+	<img alt="A-zouine's stars" src="https://img.shields.io/github/stars/ahmedez-zouine?color=blueviolet" />
 </p>
 
 ---------------

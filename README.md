@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/aez-zoui" alt="ael-khni's 42 stats" /></a>
+<a ><img src="https://badge.mediaplus.ma/black/aez-zoui" alt="ael-khni's 42 stats" /></a>
 </p>
 
 
@@ -20,8 +20,7 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Software Engineer Student at 1337 Khouribga
-├─▣ From Tetouan Morocco
+├─▣ Software Engineer Student at 1337 ben guerir
 ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
 ├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
 │
@@ -29,10 +28,10 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://www.linkedin.com/in/achraf-elkhnissi">LinkedIn</a>
-├─◈ <a href="https://twitter.com/ashrafelkhnissi">Twitter</a>
-├─◈ <a href="https://www.instagram.com/achrafelkhnissi">Instagram</a>
-├─◈ Discord: achrafelkhnissi#2244
+├─◈ <a href="https://www.linkedin.com/in/ahmed-zouine">LinkedIn</a>
+├─◈ <a href="https://twitter.com/AHMED_EZZ0UINE">Twitter</a>
+├─◈ <a href="https://medium.com/@ahmed.ezzouine">Medium</a>
+├─◈ Discord: goodman#2244
 │
 └───────────────────────────────▰▰▰
 

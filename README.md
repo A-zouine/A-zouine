@@ -2,7 +2,8 @@
 
 </p>
 <p align="center">  
-<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
+<!-- <img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif"> -->
+<img src ="https://hellofuture.orange.com/app/uploads/2018/01/Intro-HELLO-FUTURE-1920x1080_v2.gif">
 </p>
 
 ## root:~$ whoami

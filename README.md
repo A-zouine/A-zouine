@@ -38,26 +38,17 @@
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/Piscine-2021">Piscine 2021</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/libft">libft</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/get_next_line">get_next_line</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/ft_printf">ft_printf</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/Born2beRoot">Born2beRoot</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/minitalk">minitalk</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/so_long">so_long</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/push_swap">push_swap</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/Philosophers">Philosophers</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/minishell">minishell</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/cub3d">Cub3D</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/CPP_Modules">CPP_Modules</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/webserv">Webserv</a>
+├─◈ <a href="https://github.com/A-zouine/libft">libft</a>
+├─◈ <a href="https://github.com/A-zouine/get_next_line">get_next_line</a>
+├─◈ <a href="https://github.com/A-zouine/ft_printf">ft_printf</a>
+├─◈ <a href="https://github.com/A-zouine/Born2beRoot">Born2beRoot</a>
 │
 └───────────────────────────────▰▰▰
 
 
 ┌──┤ ALX PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/achrafelkhnissi/alx-checker">alx-checker</a>
+├─◈ <a href="https://github.com/A-zouine/alx-low_level_programming">alx low level programming</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -97,9 +88,9 @@
 |:-:|:-:|
 
 <p align="center">
-	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=achrafelkhnissi&color=8c36db&style=flat&label=visitors" />
-	<img alt="achrafelkhnissi's followers" src="https://img.shields.io/github/followers/achrafelkhnissi?color=blueviolet" />
-	<img alt="achrafelkhnissi's stars" src="https://img.shields.io/github/stars/achrafelkhnissi?color=blueviolet" />
+	<img alt="A-zouine's visitors" src="https://komarev.com/ghpvc/?username=A-zouine&color=8c36db&style=flat&label=visitors" />
+	<img alt="A-zouine's followers" src="https://img.shields.io/github/followers/A-zouine?color=blueviolet" />
+	<img alt="A-zouine's stars" src="https://img.shields.io/github/stars/A-zouine?color=blueviolet" />
 </p>
 
 ---------------

@@ -18,7 +18,7 @@
 
 <pre>
 
-┌──┤ WHOAMI ├─────────▰▰▰
+┌──┤ WHOAMI ├──────────────────▰▰▰
 │
 ├─▣ Software Engineer Student at 1337 ben guerir
 ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
@@ -26,7 +26,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ SOCIAL ├─────────▰▰▰
+┌──┤ SOCIAL ├──────────────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/ahmed-zouine">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/AHMED_EZZ0UINE">Twitter</a>
@@ -35,7 +35,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ 42 PROJECTS ├───────▰▰▰
+┌──┤ 42 PROJECTS ├─────────────▰▰▰
 │
 ├─◈ <a href="https://github.com/ahmedez-zouine/libft">libft</a>
 ├─◈ <a href="https://github.com/ahmedez-zouine/get_next_line">get_next_line</a>
@@ -45,14 +45,14 @@
 └───────────────────────────────▰▰▰
 
 
-┌──┤ ALX PROJECTS ├───────▰▰▰
+┌──┤ ALX PROJECTS ├────────────▰▰▰
 │
 ├─◈ <a href="https://github.com/ahmedez-zouine/alx-low_level_programming">alx low level programming</a>
 │
 └───────────────────────────────▰▰▰
 
 
-┌──┤ COMMUNITY ├─────────▰▰▰
+┌──┤ COMMUNITY ├───────────────▰▰▰
 │
 ├─◈ If you need any help please join our community.
 ├─◈ <a href="https://discord.gg/vTvkDgsS6J">Discord Server</a>

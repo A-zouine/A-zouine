@@ -2,7 +2,8 @@
 
 </p>
 <p align="center">  
-<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
+<!--<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif"> -->
+<img src ="https://cestoliv.com/projects/imgs/42/cub3d.mp4">
 </p>
 
 ## root:~$ whoami

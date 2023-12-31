@@ -2,8 +2,8 @@
 
 </p>
 <p align="center">  
- <img src ="https://ekladata.com/eTaqWGe2fZnfdPjUlNdf_bodOpk/z52.gif"> 
-<!--<img src ="https://ekladata.com/EOblLv6O6PU9j09e_S_kEHkGoTw/z98.gif">-->
+<!-- <img src ="https://ekladata.com/eTaqWGe2fZnfdPjUlNdf_bodOpk/z52.gif"> -->
+<img src ="https://ekladata.com/EOblLv6O6PU9j09e_S_kEHkGoTw/z98.gif">
 </p>
 
 ## root:~$ whoami

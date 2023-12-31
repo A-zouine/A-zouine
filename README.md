@@ -32,7 +32,7 @@
 ├─◈ <a href="https://www.linkedin.com/in/ahmed-zouine">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/AHMED_EZZ0UINE">Twitter</a>
 ├─◈ <a href="https://medium.com/@ahmed.ezzouine">Medium</a>
-├─◈ Discord: goodman#2244
+├─◈ Discord: goodman#42
 │
 └───────────────────────────────▰▰▰
 

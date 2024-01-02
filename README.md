@@ -49,6 +49,7 @@
 ┌──┤ ALX PROJECTS ├────────────▰▰▰
 │
 ├─◈ <a href="https://github.com/ahmedez-zouine/alx-low_level_programming">alx low level programming</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/alx-higher_level_programming">alx low level programming</a>
 │
 └───────────────────────────────▰▰▰
 

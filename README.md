@@ -14,7 +14,8 @@
 <p align="center">
 <a ><img src="https://badge.mediaplus.ma/black/aez-zoui" alt="aez-zoui's 42 stats" /></a>
 </p>
-
+├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
+├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
 -->
 
 <pre>
@@ -22,8 +23,6 @@
 ┌──┤ WHOAMI ├──────────────────▰▰▰
 │
 ├─▣ Software Engineer Student at 1337 ben guerir
-├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
-├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
 │
 └───────────────────────────────▰▰▰
 

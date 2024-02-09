@@ -6,10 +6,10 @@
 <img src ="https://ekladata.com/EOblLv6O6PU9j09e_S_kEHkGoTw/z98.gif"> -->
 <img src ="https://github.com/hheghine/hheghine/assets/119530584/e5f5efa8-2fa8-45ca-921a-978ac3bda419">
 </p>
-
+<!--
 ## root:~$ whoami
 >  Software engineer student at [1337](https://1337.ma/en/) \
->  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
+>  “Don’t wait for things to happen. Make them happen.” - Roy Bennett -->
 
 <!--
 <p align="center">
@@ -53,7 +53,7 @@
 │
 └───────────────────────────────▰▰▰
 
-
+<!--
 ┌──┤ COMMUNITY ├───────────────▰▰▰
 │
 ├─◈ If you need any help please join our community.
@@ -64,7 +64,7 @@
 </pre>
 
 --------------
-<!--
+
 <p align="center">
 	<a href="mailto:achraf.elkhnissi@icloud.com">
 		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:achraf.elkhnissi@gmail.com&color=3d85c6" />

@@ -94,6 +94,6 @@
 	<img alt="A-zouine's followers" src="https://img.shields.io/github/followers/ahmedez-zouine?color=blueviolet" />
 	<img alt="A-zouine's stars" src="https://img.shields.io/github/stars/ahmedez-zouine?color=blueviolet" />
 </p>
-
+      <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedez-zouine&show_icons=true&theme=aura&layout=compact&hide_border=false"/></a>
 ---------------
 -->

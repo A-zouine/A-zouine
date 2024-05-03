@@ -3,8 +3,8 @@
 </p>
 <p align="center">  
 <!-- <img src ="https://ekladata.com/eTaqWGe2fZnfdPjUlNdf_bodOpk/z52.gif"> -->
- <img src ="https://ekladata.com/EOblLv6O6PU9j09e_S_kEHkGoTw/z98.gif"> 
-<!-- <img src ="https://github.com/hheghine/hheghine/assets/119530584/e5f5efa8-2fa8-45ca-921a-978ac3bda419">-->
+<!--  <img src ="https://ekladata.com/EOblLv6O6PU9j09e_S_kEHkGoTw/z98.gif"> -->
+<img src ="https://github.com/hheghine/hheghine/assets/119530584/e5f5efa8-2fa8-45ca-921a-978ac3bda419">
 </p>
 <!--
 ## root:~$ whoami
@@ -94,6 +94,5 @@
 	<img alt="A-zouine's followers" src="https://img.shields.io/github/followers/ahmedez-zouine?color=blueviolet" />
 	<img alt="A-zouine's stars" src="https://img.shields.io/github/stars/ahmedez-zouine?color=blueviolet" />
 </p>
-      <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedez-zouine&show_icons=true&theme=aura&layout=compact&hide_border=false"/></a>
 ---------------
 -->

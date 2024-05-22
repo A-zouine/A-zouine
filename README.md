@@ -2,7 +2,7 @@
 
 </p>
 <p align="center">  
-<img src ="./../images/tom.png">
+<img src ="tom.png">
 <!--<img src ="https://ekladata.com/eTaqWGe2fZnfdPjUlNdf_bodOpk/z52.gif"> 
   <img src ="https://ekladata.com/EOblLv6O6PU9j09e_S_kEHkGoTw/z98.gif"> -->
 <!-- <img src ="https://github.com/hheghine/hheghine/assets/119530584/e5f5efa8-2fa8-45ca-921a-978ac3bda419">-->

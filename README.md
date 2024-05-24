@@ -20,7 +20,7 @@
 ├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
 -->
 
-<pre>
+<pre style="color : "blue"">
 
 ┌──┤ WHOAMI ├──────────────────▰▰▰
 │

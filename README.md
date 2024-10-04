@@ -60,6 +60,7 @@
 ├─◈ <a href="https://github.com/ahmedez-zouine/AirBnB_clone">AirBnB clone Project</a>
 ├─◈ <a href="https://github.com/ahmedez-zouine/Sort_Algorithms">Sort Algorithms</a>
 ├─◈ <a href="https://github.com/ahmedez-zouine/alx-frontend-javascript">Alx Frontend Javascript</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/alx-interview">Alx Interview</a>
 │
 └───────────────────────────────▰▰▰
 <!--

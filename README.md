@@ -62,7 +62,11 @@
 ├─◈ <a href="https://github.com/ahmedez-zouine/alx-frontend-javascript">Alx Frontend Javascript</a>
 │
 └───────────────────────────────▰▰▰
-
+┌──┤ CONTACT ├──────────────────▰▰▰
+│
+├─◈ **Email**: [your-email@example.com](mailto:your-email@example.com)
+├─◈ **Phone**: +1-123-456-7890
+└───────────────────────────────▰▰▰
 <!--
 ┌──┤ COMMUNITY ├───────────────▰▰▰
 │

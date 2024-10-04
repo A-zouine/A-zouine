@@ -44,6 +44,10 @@
 ├─◈ <a href="https://github.com/ahmedez-zouine/get_next_line">get_next_line</a>
 ├─◈ <a href="https://github.com/ahmedez-zouine/ft_printf">ft_printf</a>
 ├─◈ <a href="https://github.com/ahmedez-zouine/Born2beRoot">Born2beRoot</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/Frac2L">Frac2L</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/push_swap">Push Swap</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/Ttway">Ttway</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/longtalk">Longtalk</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -52,6 +56,10 @@
 │
 ├─◈ <a href="https://github.com/ahmedez-zouine/alx-low_level_programming">alx low level programming</a>
 ├─◈ <a href="https://github.com/ahmedez-zouine/alx-higher_level_programming">alx higher level programming</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/Fix_My_Code_Challenge">Fix My Code Challenges</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/AirBnB_clone">AirBnB clone Project</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/Sort_Algorithms">Sort Algorithms</a>
+├─◈ <a href="https://github.com/ahmedez-zouine/alx-frontend-javascript">Alx Frontend Javascript</a>
 │
 └───────────────────────────────▰▰▰
 

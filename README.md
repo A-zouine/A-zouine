@@ -25,7 +25,7 @@
 
 ┌──┤ WHOAMI ├──────────────────▰▰▰
 │
-├─▣ Software Engineer Student at 1337 ben guerir
+├─▣ Software Engineer Student
 │
 └───────────────────────────────▰▰▰
 
